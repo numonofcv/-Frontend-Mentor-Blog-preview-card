@@ -36,8 +36,8 @@ Users should be able to:
 
 ## 🔗 Links
 
-- Solution URL: [Frontend Mentor Solution](#)
-- Live Site URL: [Live Demo](#)
+- Solution URL: [https://github.com/numonofcv/-Frontend-Mentor-Blog-preview-card](#)
+- Live Site URL: [https://by-numonofcv-blog-preview-card.netlify.app/](#)
 
 ---
 
